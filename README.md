@@ -1,4 +1,5 @@
 Complete End-to-End CI/CD Process with Azure DevOps and AKS Cluster Deployment
+![image](https://github.com/user-attachments/assets/7aa2c672-81b0-447f-b1c7-2e7313574a96)
 
  
 
