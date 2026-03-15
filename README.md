@@ -1,4 +1,4 @@
-
+![Architecture Diagram](images/image2.png)
 Objectives of the Project 📈:
 
 1️⃣ Implementing Continuous Integration (CI):
