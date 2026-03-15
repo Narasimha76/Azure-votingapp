@@ -19,3 +19,6 @@ Objectives of the Project 📈:
 3.ArgoCD Setup: Installed and configured to manage deployments. ⚙️
 
 Azure DevOps | Python | Redis | .NET | Docker | AKS | ArgoCD | Postgres | Node.js 🧰💻
+
+
+
